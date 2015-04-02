@@ -4,7 +4,7 @@
 
 # Інсталяція
 
-1. Завантажте [Ukrainian_Unicode_Layout.dmg](https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout/blob/master/Install Ukrainian Unicode Layout.dmg)
+1. Завантажте [Ukrainian_Unicode_Layout.dmg](https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout/raw/master/Install Ukrainian Unicode Layout.dmg)
 2. Змонтуйте викачаний образ
 3. Запустіть `Install Ukrainian Unicode Layout.app`
 
