@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.ukrainianunicode</string>
+	<string>org.sil.ukelele.keyboardlayout.ukrainianunicode layout</string>
 	<key>CFBundleName</key>
 	<string>Ukrainian Unicode</string>
 	<key>CFBundleVersion</key>
@@ -11,7 +11,7 @@
 	<key>KLInfo_Ukrainian Unicode</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.ukrainianunicode.ukrainianunicode</string>
+		<string>org.sil.ukelele.keyboardlayout.ukrainianunicode layout.ukrainianunicode</string>
 		<key>TISIntendedLanguage</key>
 		<string>uk-UA</string>
 	</dict>
