@@ -398,16 +398,16 @@
 			<key code="4" output=""/>
 			<key code="5" output=""/>
 			<key code="6" output=""/>
-			<key code="7" output=""/>
+			<key code="7" output="ћ"/>
 			<key code="8" output="©"/>
 			<key code="9" output=""/>
 			<key code="10" output="§"/>
 			<key code="11" output=""/>
-			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="12" output="ј"/>
+			<key code="13" output="џ"/>
 			<key code="14" output="ў"/>
 			<key code="15" output="®"/>
-			<key code="16" output=""/>
+			<key code="16" output="њ"/>
 			<key code="17" output="ё"/>
 			<key code="18" output=""/>
 			<key code="19" output=""/>
@@ -428,10 +428,10 @@
 			<key code="34" output=""/>
 			<key code="35" output=""/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output=""/>
+			<key code="37" output="ђ"/>
 			<key code="38" output=""/>
 			<key code="39" output="э"/>
-			<key code="40" output=""/>
+			<key code="40" output="љ"/>
 			<key code="41" output=""/>
 			<key code="42" output="\"/>
 			<key code="43" output="«"/>
@@ -507,16 +507,16 @@
 			<key code="4" output=""/>
 			<key code="5" output=""/>
 			<key code="6" output=""/>
-			<key code="7" output=""/>
+			<key code="7" output="Ћ"/>
 			<key code="8" output="©"/>
 			<key code="9" output=""/>
 			<key code="10" output="±"/>
 			<key code="11" output=""/>
-			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="12" output="Ј"/>
+			<key code="13" output="Џ"/>
 			<key code="14" output="Ў"/>
 			<key code="15" output="®"/>
-			<key code="16" output=""/>
+			<key code="16" output="Њ"/>
 			<key code="17" output="Ё"/>
 			<key code="18" output=""/>
 			<key code="19" output="’"/>
@@ -537,10 +537,10 @@
 			<key code="34" output=""/>
 			<key code="35" output=""/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output=""/>
+			<key code="37" output="Ђ"/>
 			<key code="38" output=""/>
 			<key code="39" output="Э"/>
-			<key code="40" output=""/>
+			<key code="40" output="Љ"/>
 			<key code="41" output=""/>
 			<key code="42" output="|"/>
 			<key code="43" output="„"/>
