@@ -1,6 +1,10 @@
-# Чому!?
+# Чому?
 
 Для юзерів котрі пересіли з PC на Mac/Hack* важко адаптуватись до стандартної української розкладки. Тому [Олег Боженко](http://mrgall.com/) адаптував [Українську розкладку клавіатури з символами Unicode](http://r2u.org.ua/wiki/keyboard/UkrainianUnicode) для OS X. А я в свою чергу зробив `bundle` та простенький інсталятор.
+
+# macOS High Sierra
+
+В цій версії ОС наявні [глюки](https://apple.stackexchange.com/questions/300606/keyboard-layout-keeps-reverting-since-upgrade-to-high-sierra) при встановленні розкладки для всіх користувачів. Потрібно встановлювати для окремого користувача, в ~/Library.
 
 # Інсталяція
 
