@@ -1,15 +1,10 @@
-# Чому?
+# Інсталятор для Української Unicode розкладки для macOS
 
-Для юзерів котрі пересіли з PC на Mac/Hack* важко адаптуватись до стандартної української розкладки. Тому [Олег Боженко](http://mrgall.com/) адаптував [Українську розкладку клавіатури з символами Unicode](http://r2u.org.ua/wiki/keyboard/UkrainianUnicode) для OS X. А я в свою чергу зробив `bundle` та простенький інсталятор.
+### macOS High Sierra
 
-# macOS High Sierra
+В цій версії ОС наявні [глюки](https://apple.stackexchange.com/questions/300606/keyboard-layout-keeps-reverting-since-upgrade-to-high-sierra) при встановленні розкладки для всіх користувачів. Тому для даної версії ОС, рекомендуєтся, встановлювати для поточного користувача.
 
-В цій версії ОС наявні [глюки](https://apple.stackexchange.com/questions/300606/keyboard-layout-keeps-reverting-since-upgrade-to-high-sierra) при встановленні розкладки для всіх користувачів. Потрібно встановлювати для окремого користувача, в ~/Library.
+### Інсталяція
 
-# Інсталяція
-
-1. Завантажте [Install Ukrainian Unicode Layout.dmg](https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout/raw/master/Install%20Ukrainian%20Unicode%20Layout.dmg)
-2. Змонтуйте викачаний образ
-3. Запустіть `Install Ukrainian Unicode Layout.app`
-
-_* Hack (Hackintosh) - так прийнято називати звичайні компютери на котрих встановлена OS X._
+1. Завантажте актуальний інсталятор з розділу [Releases](releases/)
+2. Запустіть `Install Ukrainian Unicode Layout.app`
