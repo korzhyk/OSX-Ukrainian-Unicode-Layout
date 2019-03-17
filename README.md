@@ -4,5 +4,5 @@
 
 ### Інсталяція
 
-1. Завантажте актуальний інсталятор з розділу [Releases](releases/)
+1. Завантажте актуальний інсталятор з розділу [Releases](../../releases/)
 2. Запустіть `Install Ukrainian Unicode Layout.app`
