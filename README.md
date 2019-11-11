@@ -12,7 +12,7 @@
 1. Відкрийте `Terminal.app`
 2. Запустіть команду:
 
-        brew cask install https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout/raw/master/ukrainian-unicode-layout.rb
+        brew cask install ukrainian-unicode-layout
 
 ## Git
 1. Відкрийте `Terminal.app`
@@ -20,7 +20,7 @@
 
     a) Лише для поточного користувача:
 
-        git clone --depth 1 https://github.com/korzhyk/macOS-Ukrainian-Unicode-Layout.git ~/Library/Keyboard\ Layouts/Ukrainian-Unicode-Layout.bundle````
+        git clone --depth 1 https://github.com/korzhyk/macOS-Ukrainian-Unicode-Layout.git ~/Library/Keyboard\ Layouts/Ukrainian-Unicode-Layout.bundle
 
     b) Для усіх користувачів:
 
