@@ -12,7 +12,7 @@
 1. Відкрийте `Terminal.app`
 2. Запустіть команду:
 
-        brew cask install ukrainian-unicode-layout
+        brew install --cask ukrainian-unicode-layout
 
 ## Git
 1. Відкрийте `Terminal.app`
